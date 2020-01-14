@@ -2,10 +2,6 @@
   <img width="200" height="200" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
 </p>
 
-<p align="center">
-  <img align="left" width="10" height="10" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
-
-</p> 
 # Title 
 
 Description
