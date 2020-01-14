@@ -1,4 +1,6 @@
-![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
+<p align="center">
+  <img https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png/>
+</p> ![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
 
 # Title 
 
