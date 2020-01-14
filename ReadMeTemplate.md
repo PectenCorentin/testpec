@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
+  <img width="200" height="200" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
 </p>
 
 # Title 
