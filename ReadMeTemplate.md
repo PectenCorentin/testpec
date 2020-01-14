@@ -1,3 +1,5 @@
+![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
+
 # Title 
 
 Description
