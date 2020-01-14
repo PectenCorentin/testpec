@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img align="left" width="200" height="200" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
+  <img align="left" width="50" height="50" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
 </p> # Title 
 
 Description
