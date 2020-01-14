@@ -1,6 +1,6 @@
 <p align="center">
-  ![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
-</p> 
+  <img width="460" height="300" src="https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png">
+</p>
 
 # Title 
 
