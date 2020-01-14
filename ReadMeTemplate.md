@@ -1,5 +1,5 @@
 <p align="center">
-  <img ![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
+  ![alt text](https://github.com/PectenCorentin/testpec/blob/master/pectenlogo.png "Pecten Logo")
 </p> 
 
 # Title 
